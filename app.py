@@ -5,7 +5,7 @@ from gtts import gTTS
 import numpy as np
 import base64
 
-pytesseract.pytesseract.tesseract_cmd = r"Tesseract-OCR\tesseract.exe" # read pytesseract file
+pytesseract.pytesseract.tesseract_cmd = r"Tesseract-OCR/tesseract.exe" # read pytesseract file
 
 
 st.title("Image Text to Speech Converter App")
