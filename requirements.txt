@@ -1,0 +1,5 @@
+Pillow==9.2.0
+streamlit==1.34.0
+pytesseract==0.3.10
+gTTS==2.5.1
+numpy==1.26.4
